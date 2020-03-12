@@ -1,4 +1,4 @@
-max_pagination: 10
+max_pagination: 2
 view_product_detail_css: ".car-item"
 item_image_urls_css: ".highslide-gallery"
 item_image_urls_xpath: ".//img/@src"

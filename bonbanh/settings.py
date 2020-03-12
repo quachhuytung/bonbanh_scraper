@@ -70,6 +70,7 @@ ITEM_PIPELINES = {
     'scrapy.pipelines.images.ImagesPipeline': 1,
     'bonbanh.pipelines.DeleteImageUrlsPipeline': 100,
     'bonbanh.pipelines.FilterImageAttribs': 150,
+    'bonbanh.pipelines.ImportData': 200,
     'bonbanh.pipelines.JsonLineWriterPipeline': 300,
 }
 
