@@ -1,4 +1,8 @@
 ## Scrape data from bonbanh.com
+How to run this project:
+```python
+scrapy crawl bonbanh_scraper
+```
 1. How to install dependencies
 * Install PostgreSQL, create a user and a database
 * Install Python 3.7.4(any version of python 3.x may be ok)
